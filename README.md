@@ -9,6 +9,8 @@
 - Also, I help many startups as a tech consultant (without any fee) and a crypto enthusiast. I'm also a good solidity developer and blockchain consultant generally guiding small companies and individuals regarding the implementation of blockchain. 
 - Presently working as one of the course directors for TechEducators. I'm mostly involved in the Ethereum tech stack and solidity smart contracts. NFTs and DEFIs are some projects I'm working on along with educating people and onboarding many newcomers to web3. Soon to announce an exciting startup in web3.
 
+<a href="https://app.daily.dev/demigod_v"><img src="https://api.daily.dev/devcards/96d4539a716146dbb78a8fba4ea27cfe.png?r=v8o" width="400" alt="Vatsavaye priyatham Varma's Dev Card"/></a>
+
 
 ## Social media channels
 
