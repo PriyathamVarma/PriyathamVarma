@@ -1,6 +1,8 @@
  # VATSAVAYE PRIYATHAM VARMA (a.k.a V)
  ![Hero image](https://github.com/PriyathamVarma/personal-profile/blob/main/METAPRENEUR.gif)
  
+ [![Demigod's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyathamVarma)](https://github.com/anuraghazra/github-readme-stats)
+ 
  ## About me
  
 - I'm a data scientist and web 3.0 developer(solidity, Ethereum and Polygon) interested in building new things. Started my first startup when I was 21 and literally failed at every step scaling it. I'm proud to say that I have failed in my startup journey as I learned how not to build a startup. Coming to the technical experience I started out as a normal trainee developer at a very small company in India and rose to the ranks of technical lead in just two years. Of course, the company has five employees only. During these two years, I mostly worked on PHP projects with laravel as the backend and react or Vue js as the front end(Still I think Vue is the best). Also, I concentrated on implementing click up, GitHub, slack channels and other developer productivity tools to increase the organization's efficiency. 
