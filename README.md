@@ -2,7 +2,7 @@
  ![Hero image](https://github.com/PriyathamVarma/personal-profile/blob/main/METAPRENEUR.gif)
  
  [![Demigod's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyathamVarma&count_private=true
-)](https://github.com/anuraghazra/github-readme-stats)
+)](https://github.com/PriyathamVarma)
  
  ## About me
  
