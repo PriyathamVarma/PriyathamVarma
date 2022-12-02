@@ -22,6 +22,8 @@
  
  ## Interests and skills
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyathamVarma)](https://github.com/PriyathamVarma)
+ 
  * Javascript
  * React JS
  * Node JS
