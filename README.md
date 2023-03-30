@@ -28,7 +28,8 @@ Thanks for stopping by! 😊
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<URL>)](https://www.linkedin.com/in/vatsavaye-priyatham-varma/)
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40your_twitter_handle-blue?logo=Twitter)](https://twitter.com/Mister_V_Varma)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=<URL>)](https://twitter.com/Mister_V_Varma)
+
  
  ## Interests and skills
  
