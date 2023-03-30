@@ -35,14 +35,19 @@ Thanks for stopping by! 😊
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyathamVarma)](https://github.com/PriyathamVarma)
  
- * Javascript
- * React JS
- * Node JS
- * Vue JS
- * Three JS
- * Solidity
- * Python
- 
+> Javascript: 🚀
+
+> React JS: ⚛️
+
+> Node JS: 🟢
+
+> Solidity: 💎
+
+> Python: 🐍
+
+> Go-Lang: 🐹
+
+> Next JS: ⏭️
  
  ## Expertise
  
