@@ -26,8 +26,9 @@ Thanks for stopping by! 😊
 
 ## Social media channels
 
-[Linkedin](https://www.linkedin.com/in/vatsavaye-priyatham-varma/)
-[Twitter](https://twitter.com/Mister_V_Varma)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<URL>)](https://www.linkedin.com/in/vatsavaye-priyatham-varma/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-%40your_twitter_handle-blue?logo=Twitter)](https://twitter.com/Mister_V_Varma)
  
  ## Interests and skills
  
