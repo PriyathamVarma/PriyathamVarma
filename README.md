@@ -6,11 +6,20 @@
  
  ## About me
  
-- I'm a data scientist and web 3.0 developer(solidity, Ethereum and Polygon) interested in building new things. Started my first startup when I was 21 and literally failed at every step scaling it. I'm proud to say that I have failed in my startup journey as I learned how not to build a startup. Coming to the technical experience I started out as a normal trainee developer at a very small company in India and rose to the ranks of technical lead in just two years. Of course, the company has five employees only. During these two years, I mostly worked on PHP projects with laravel as the backend and react or Vue js as the front end(Still I think Vue is the best). Also, I concentrated on implementing click up, GitHub, slack channels and other developer productivity tools to increase the organization's efficiency. 
-- I'm very much experienced(at least I think I'm) in building full-stack projects from initial architecture designs, system requirements, and resource planning all the way to deployment, maintenance, and up-gradation(failed in one project though).
-- Done my master's in Data Science at the University of East Anglia (UEA) in the U.K. I have done my dissertation on infrastructure modelling for electric vehicles using regression analysis and data preprocessing techniques. Although my adviser ridiculed my idea to be insane I can say that my project regarding mobile infrastructure units is the future. By the way, I predicted the energy demand for electric vehicles for the entire of England(region-wise) up to 2030. 
-- Also, I help many startups as a tech consultant (without any fee) and a crypto enthusiast. I'm also a good solidity developer and blockchain consultant generally guiding small companies and individuals regarding the implementation of blockchain. 
-- Presently working as one of the course directors for TechEducators. I'm mostly involved in the Ethereum tech stack and solidity smart contracts. NFTs and DEFIs are some projects I'm working on along with educating people and onboarding many newcomers to web3. Soon to announce an exciting startup in web3.
+### Hey there! 👋
+I am a Data Scientist and Web 3.0 Developer with expertise in Solidity, Ethereum, and Polygon.
+
+🚀 I am passionate about building new things and I started my first startup when I was 21. Although I failed at every step in scaling it, I learned how not to build a startup.
+
+👨‍💻 I have extensive technical experience and started out as a normal trainee developer at a small company in India. I quickly rose to the rank of Technical Lead and worked on PHP projects with Laravel as the backend and React or Vue.js as the front end. I am also experienced in implementing developer productivity tools such as ClickUp, GitHub, and Slack channels to increase organizational efficiency.
+
+🎓 I completed my Master's in Data Science at the University of East Anglia (UEA) in the UK. My dissertation focused on infrastructure modeling for electric vehicles using regression analysis and data preprocessing techniques. I predicted the energy demand for electric vehicles for the entire region of England up to 2030.
+
+🤝 As a tech consultant and crypto enthusiast, I help many startups without any fees and guide small companies and individuals in implementing blockchain. I am currently working as one of the course directors for TechEducators, where I mostly focus on the Ethereum tech stack and Solidity smart contracts.
+
+🎉 Exciting news! I am soon to announce a startup in Web 3.0. Stay tuned for updates!
+
+Thanks for stopping by! 😊
 
 <a href="https://app.daily.dev/demigod_v"><img src="https://api.daily.dev/devcards/96d4539a716146dbb78a8fba4ea27cfe.png?r=v8o" width="400" alt="Vatsavaye priyatham Varma's Dev Card"/></a>
 
