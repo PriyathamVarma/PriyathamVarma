@@ -7,7 +7,7 @@
  ## About me
  
 ### Hey there! 👋
-I am a Data Scientist and Web 3.0 Developer with expertise in Solidity, Ethereum, and Polygon.
+I am a Web 3.0 Developer and AI engineer. 
 
 🚀 I am passionate about building new things and I started my first startup when I was 21. Although I failed at every step in scaling it, I learned how not to build a startup.
 
