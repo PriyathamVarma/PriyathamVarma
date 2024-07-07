@@ -1,4 +1,4 @@
- # VATSAVAYE PRIYATHAM VARMA (a.k.a V)
+ # VATSAVAYE PRIYATHAM VARMA
  ![Hero image](https://github.com/PriyathamVarma/personal-profile/blob/main/METAPRENEUR.gif)
  
  [![Demigod's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyathamVarma&count_private=true
