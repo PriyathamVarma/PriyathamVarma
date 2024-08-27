@@ -4,7 +4,7 @@
  [![Demigod's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyathamVarma&count_private=true
 )](https://github.com/PriyathamVarma)
  
- ## About me
+ ## About myself
  
 ### Hey there! 👋
 I am a Web 3.0 Developer and AI engineer. 
